@@ -1,0 +1,10 @@
+Q1. Name the company/s which does business in more than one stream but in same country.
+Q2. Name the youngest manager and his/her salary, grade with allowances.
+Q3. Name the employees, manager, designation, department, country and their DOB who either shares the same month or same
+year in their DOB.
+Q4. Name the employee, designation, grade, country and manager who have the second best salary in the database.
+Q5. Name the employee/s, mail, age, department, designation, grade, country and manager who have two ‘e’ or two ‘y’ in their
+name.
+Q6. Name the employees with their salary, department, country, managers and total allowances given to them who have mail
+account in Hotmail.
+Q7. Name the company/s which has any particular department in all countries. 
